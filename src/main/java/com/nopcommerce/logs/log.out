@@ -1,0 +1,60 @@
+2021-06-29 00:06:899 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-29 00:06:857 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:241 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:491 INFO  HomePage :30 - Clicking on Products from dropdown:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> xpath: //select[@id='products-orderby']]
+2021-06-29 00:06:696 INFO  HomePage :35 - Clicking on Add to cart:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-29 00:06:765 INFO  HomePage :45 - Clicking products from dropdown:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> id: product_attribute_1]
+2021-06-29 00:06:32 INFO  HomePage :49 - Clicking products from dropdown2:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> id: product_attribute_2]
+2021-06-29 00:06:195 INFO  HomePage :54 - Clicking on radio button:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> id: product_attribute_3_7]
+2021-06-29 00:06:330 INFO  HomePage :58 - Clicking on radio button2:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> id: product_attribute_4_9]
+2021-06-29 00:06:472 INFO  HomePage :62 - Clicking on radio button3:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> id: product_attribute_5_12]
+2021-06-29 00:06:267 INFO  HomePage :65 - Clicking on total amount:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> xpath: //span[text()='$1,475.00']]
+2021-06-29 00:06:407 INFO  HomePage :71 - Clicking on add to cart:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> id: add-to-cart-button-1]
+2021-06-29 00:06:700 INFO  HomePage :74 - Clicking on top bar:[[ChromeDriver: chrome on WINDOWS (5bd182a3dcffd0f0e16b26ce26f0eceb)] -> xpath: //p[text()='The product has been added to your ']]
+2021-06-30 11:06:518 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 11:06:883 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (f20e654a62a932e92e69f4e225fe6fe8)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:34 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (f20e654a62a932e92e69f4e225fe6fe8)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:487 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 11:06:266 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (0ef3d9c9dc3453c2d26bebe0da5996e8)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:394 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (0ef3d9c9dc3453c2d26bebe0da5996e8)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:904 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 11:06:999 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (ba8d1f8e4cd2697899b0e984fc306a6b)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:30 INFO  HomePage :65 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (ba8d1f8e4cd2697899b0e984fc306a6b)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-30 11:06:750 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 11:06:303 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (d36150769c636e66f568a274bb37aad5)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:443 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (d36150769c636e66f568a274bb37aad5)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:14 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 11:06:306 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (43e5d6be6a85898b5a06bb26f77368f9)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:422 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (43e5d6be6a85898b5a06bb26f77368f9)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:306 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 11:06:622 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (93baddf1b91311c6328050bcf120396f)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:656 INFO  HomePage :65 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (93baddf1b91311c6328050bcf120396f)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-30 11:06:385 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 11:06:979 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (25961798861f2c349c4e9cad8ae96160)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:16 INFO  HomePage :65 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (25961798861f2c349c4e9cad8ae96160)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-30 11:06:169 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 11:06:561 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (d415ec553b11c134874b37a35d02e19a)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 11:06:699 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (d415ec553b11c134874b37a35d02e19a)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:553 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:944 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (281fba9e14479567d31722fa59906102)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:72 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (281fba9e14479567d31722fa59906102)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:476 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:851 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (103070ff2341f1cb015405896efb0e9c)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:192 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (103070ff2341f1cb015405896efb0e9c)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:454 INFO  HomePage :30 - Clicking on Products from dropdown:[[ChromeDriver: chrome on WINDOWS (103070ff2341f1cb015405896efb0e9c)] -> xpath: //select[@id='products-orderby']]
+2021-06-30 12:06:990 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:434 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (60c1c03984052870614280564025ad4d)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:572 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (60c1c03984052870614280564025ad4d)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:101 INFO  BasePage :34 - Launching Chrome Browser 
+2021-06-30 12:06:454 INFO  HomePage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:839 INFO  HomePage :34 - Clicking on Desktop options:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-30 12:06:69 INFO  HomePage :30 - Clicking on Products from dropdown:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> xpath: //select[@id='products-orderby']]
+2021-06-30 12:06:212 INFO  HomePage :35 - Clicking on Add to cart:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> xpath: //body/div[6]/div[3]/div[1]/div[3]/div[1]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/button[1]]
+2021-06-30 12:06:54 INFO  HomePage :45 - Clicking products from dropdown:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> id: product_attribute_1]
+2021-06-30 12:06:234 INFO  HomePage :49 - Clicking products from dropdown2:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> id: product_attribute_2]
+2021-06-30 12:06:344 INFO  HomePage :54 - Clicking on radio button:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> id: product_attribute_3_7]
+2021-06-30 12:06:450 INFO  HomePage :58 - Clicking on radio button2:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> id: product_attribute_4_9]
+2021-06-30 12:06:566 INFO  HomePage :62 - Clicking on radio button3:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> id: product_attribute_5_12]
+2021-06-30 12:06:347 INFO  HomePage :65 - Clicking on total amount:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> xpath: //span[text()='$1,475.00']]
+2021-06-30 12:06:487 INFO  HomePage :71 - Clicking on add to cart:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> id: add-to-cart-button-1]
+2021-06-30 12:06:778 INFO  HomePage :74 - Clicking on top bar:[[ChromeDriver: chrome on WINDOWS (5b1d2da39266195d95dba8928ae52ef3)] -> xpath: //p[text()='The product has been added to your ']]
